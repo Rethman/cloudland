@@ -1,4 +1,4 @@
-# Authors Notes : Read this is you are new to the repository
+# Authors Notes : Read this if you are new to the repository
 
 I don't expect you to instantly know what is all going on in this Project. If you want to learn a bit on how my applications work, just follow along with this file. As I make the software I will post the resources I learned it from. Why would you re-search when someone has already searched it before :)
 
